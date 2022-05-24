@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="java.js"></script>
+    <title>La roue Libre</title>
+</head>
+<body class="hero-anime">
+    <section class="navigation">
+          <div class="navigation-wrap bg-light start-header start-style">
+            <div class="container">
+              <div class="row">
+                <div class="col-12">
+                  <nav class="navbar navbar-expand-md navbar-light">
+                    <a class="navbar-brand" href="index.html" target="_blank">
+                      <img src="logo.png" alt="">
+                    </a>	
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                      <ul class="navbar-nav ml-auto py-2 py-md-0">
+                        <li class="nav-item pl-2 pl-md-0 ml-0 ml-md-2 active">
+                          <div class="dropdown-menu">
+                          </div>
+                        </li>
+                        <li class="nav-item pl-2 pl-md-0 ml-0 ml-md-2">
+                          <a class="nav-link" href="atelier.html">Atelier</a>
+                        </li>
+                        <li class="nav-item pl-2 pl-md-0 ml-0 ml-md-2">
+                          <a class="nav-link" href="vélo-école-PHaMA.html">Vélo école / PHaMA</a>
+                        </li>
+                        <li class="nav-item pl-2 pl-md-0 ml-0 ml-md-2">
+                          <a class="nav-link" href="vie-associative.html">Vie Associative</a>
+                        </li>
+                        <li class="nav-item pl-2 pl-md-0 ml-0 ml-md-2">
+                          <a class="nav-link" href="#">Articles</a>
+                        </li>
+                        <li class="nav-item pl-2 pl-md-0 ml-0 ml-md-2">
+                          <a class="nav-link" href="#">Contact</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </nav>		
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="section full-height">
+            <div class="absolute-center">
+              <div class="section">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12">
+                <h1><span>B</span><span>I</span><span>E</span><span>N</span><span>V</span><span>E</span>
+                  <span>N</span><span>U</span><span>E</span></h1>
+                    </div>	
+                  </div>		
+                </div>		
+              </div>
+              <div class="section-texte-1">
+                <h2>Qui sommes-nous ?</h2>
+                <p>L'association La Roue Libre (association de la loi 1901) a été créée en 2013 avec 
+                  l’envie d’offrir à tous les havraises et havrais un lieu de ressource, d’entraide 
+                  et de partage orienté sur le vélo.
+                  Peu à peu l'organisme a su grandir et s'implanter comme un acteur de la vie cycliste au Havre,
+                   toujours au service de ses 750 adhérentes et adhérents (chiffres de l'année 2019).
+                  Depuis juillet 2019, La Roue Libre a développé un second pôle : PHaMA, situé à la forêt de Montgeon.</p>
+                  <img class="imglogo" src="logo.png" alt="">
+              </div>
+      </section>
